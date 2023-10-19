@@ -1,1 +1,1 @@
-It's my test with git version control. 
+Now i test branch and merge and i write text to update the text in first txt file. 
