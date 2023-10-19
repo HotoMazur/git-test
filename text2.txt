@@ -1,0 +1,1 @@
+It's the third time when i write to this file, and i not understand why i need write two files, i can also create one file to add one file with command git add ., nut i create two files and now write this text becouse it's my text and i can write and says what i want and nobody can say me nothing what i can write to my file and can't. 
